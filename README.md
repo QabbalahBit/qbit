@@ -1,6 +1,5 @@
 # qbit
 QabbalahBit Coin Repo
-BS”D
 
 ## QBIT White Paper
 
