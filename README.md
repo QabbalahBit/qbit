@@ -1,7 +1,8 @@
 # qbit
-QabbalahBit Coin Repo
 
-## QBIT White Paper
+## The Public Repo for The QabbalahBit Coin on Ethereum Mainnet
+
+### The QBIT White Paper
 
 The QabbalahBit Coin is a Store-of-Value (SoV) & Transfer-of-Value (ToV) Knowledge Network with built-in general ledger (GL) accounting functionality.  We do this using a proprietary technology called Decentralized GL Classes [Copyright (R) The QabbalahBit Foundation]
 
