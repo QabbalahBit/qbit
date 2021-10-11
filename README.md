@@ -22,7 +22,7 @@ The QabbalahBit Network, currently through its custodian but eventually through 
 ## QBIT Initial Price Mechanics
 
 							Total Potential # of Tokens and $ Value
-### BS"D     QBIT Initial Price Mechanics			611,611	$4,246,028.15		
+### 								611,611	$4,246,028.15		
 
 							
 QBIT	ETH	US $			#	Total US $ Value		
