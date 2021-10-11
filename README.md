@@ -24,7 +24,7 @@ The QabbalahBit Network, currently through its custodian but eventually through 
 
 							Total Potential # of Tokens and $ Value
 ### 								611,611	$4,246,028.15		
-
+###
 							
 QBIT	ETH	US $			#	Total US $ Value		
 1	0.0011111111	$3.91		600000	$2,344,666.64		
